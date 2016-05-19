@@ -1,0 +1,23 @@
+/* CSS Document */
+.clr{
+	clear:both;
+}
+#foods{
+	border:0px solid red;
+	width:700px;
+	height:400px;
+	margin:20px auto;
+}
+.food{
+	border:1px solid blue;
+	width:202px;
+	height:150px;
+	margin:10px;
+	float:left;
+}
+.fname{
+	text-align:center;
+}
+.fname a{
+	color:#FF6600;
+}
